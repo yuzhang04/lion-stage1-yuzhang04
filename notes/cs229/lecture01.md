@@ -6,7 +6,7 @@
 
 \- 什么是监督学习？它和無监督学习、强化学习的区别是什么？
 
-\- 监督学习的两大类任务：回归（regression）和分类（classification）
+\- 监督学习的两大类任务：回归（regression）和分类（classification） 
 
 
 
